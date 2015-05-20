@@ -15,7 +15,7 @@
         "icon":         "icons-material-svg.png",
         "mode":         "none",
         "keywords":     ["icons", "material design", "ioBroker"],
-        "extIcon":      "https://raw.githubusercontent.com/ioBroker/ioBroker.icons-material-svg/master/admin/icons-material-svg.svg",
+        "extIcon":      "https://raw.githubusercontent.com/ioBroker/ioBroker.icons-material-svg/master/admin/icons-material-svg.png",
         "readme":       "https://github.com/ioBroker/ioBroker.icons-material-svg/blob/master/README.md",
         "loglevel":     "info",
         "dependencies": ["web"],

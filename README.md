@@ -1,4 +1,4 @@
-![Logo](admin/icons-material-svg.svg)
+![Logo](admin/icons-material-svg.png)
 ioBroker.icons-material-svg
 =================
 
