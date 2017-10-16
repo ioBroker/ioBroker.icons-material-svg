@@ -1,9 +1,9 @@
 {
     "common": {
-        "name":         "icons-material-svg",
-        "version":      "0.1.1",
-        "title":        "Material google design icons as SVG",
-        "desc":         {
+        "name": "icons-material-svg",
+        "version": "0.1.1",
+        "title": "Material google design icons as SVG",
+        "desc": {
             "en": "Icon set for visualisation as SVG from google.",
             "de": "Bildersatz für die Visualisierung als SVG vom google",
             "ru": "Набор иконок для визуализации дома в SVG от google"
@@ -11,24 +11,27 @@
         "authors": [
             "bluefox <bluefox@ccu.io>"
         ],
-        "platform":     "javascript/Node.js",
-        "icon":         "icons-material-svg.png",
-        "mode":         "none",
-        "keywords":     ["icons", "material design", "ioBroker"],
-        "extIcon":      "https://raw.githubusercontent.com/ioBroker/ioBroker.icons-material-svg/master/admin/icons-material-svg.png",
-        "readme":       "https://github.com/ioBroker/ioBroker.icons-material-svg/blob/master/README.md",
-        "loglevel":     "info",
-        "dependencies": ["web"],
-        "enabled":      true,
-        "onlyWWW":      true,
-        "singleton":    true,
-        "localLink":    "%web_protocol%://%ip%:%web_port%/icons-material-svg/index.html",
-		"type":         "vis",
-        "license":      "CC-BY"
+        "platform": "javascript/Node.js",
+        "icon": "icons-material-svg.png",
+        "mode": "none",
+        "keywords": [
+            "icons",
+            "material design",
+            "ioBroker"
+        ],
+        "extIcon": "https://raw.githubusercontent.com/ioBroker/ioBroker.icons-material-svg/master/admin/icons-material-svg.png",
+        "readme": "https://github.com/ioBroker/ioBroker.icons-material-svg/blob/master/README.md",
+        "loglevel": "info",
+        "dependencies": [
+            "web"
+        ],
+        "enabled": true,
+        "onlyWWW": true,
+        "singleton": true,
+        "localLink": "%web_protocol%://%ip%:%web_port%/icons-material-svg/index.html",
+        "type": "visualization-icons",
+        "license": "CC-BY"
     },
-    "native": {
-
-    },
-    "objects": [
-    ]
+    "native": {},
+    "objects": []
 }
